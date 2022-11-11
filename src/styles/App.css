@@ -28,6 +28,12 @@
   color: #61dafb;
 }
 
+.vl {
+  border-left: 1px solid #bbb7b7;
+  height: 70px;
+  margin-right: 20px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
